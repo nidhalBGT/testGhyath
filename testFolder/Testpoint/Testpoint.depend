@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1540654607 source:c:\users\nidhal\desktop\testpoint\main.cpp
+	<iostream>
+	"Point.h"
+
+1540654505 c:\users\nidhal\desktop\testpoint\point.h
+
+1540653964 source:c:\users\nidhal\desktop\testpoint\point.cpp
+	"Point.h"
+	<iostream>
+
