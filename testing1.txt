@@ -1,4 +1,8 @@
 
 this is the initial code after edition afte r editing pull
 
+<<<<<<< HEAD
 my code aded before pushing it
+=======
+editedt edited
+>>>>>>> 68bcce402b6736ba98a5fa15e1c998c6df45bf34
